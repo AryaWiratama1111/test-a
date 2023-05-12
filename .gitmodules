@@ -1,0 +1,3 @@
+[submodule "[arya]/test-b"]
+	path = [arya]/test-b
+	url = git@github.com:AryaWiratama1111/test-b.git
